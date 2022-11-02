@@ -12,4 +12,8 @@
  *
  *= require_tree .
  *= require_self
+
+
  */
+
+ @import "bootstrap/scss/bootstrap"; /* picks it up in node_modules! */
