@@ -5,6 +5,7 @@
   align-items: center;
   background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("background-image.jpeg");
   background-size: cover;
+  background-position: center;
 }
 
 .banner h1 {

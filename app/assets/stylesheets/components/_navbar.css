@@ -1,0 +1,40 @@
+.navbar {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+img {
+  height: 40px;
+}
+
+.logo {
+  margin-left: 15px;
+  box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+  border-radius: 4px;
+}
+
+.logo a:hover {
+  background-color: white;
+  padding: 3px;
+}
+
+.userOptions {
+  margin-right: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: teal;
+}
+
+a:hover {
+  color: white;
+  background-color: teal;
+  border-radius: 4px;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.btn {
+  background-color: teal;
+  border-color: teal;
+}

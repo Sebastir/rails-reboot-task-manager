@@ -6,3 +6,5 @@ var options = {
 };
 
 var typed = new Typed('.type', options);
+
+export { typed }
